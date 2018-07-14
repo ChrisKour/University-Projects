@@ -1,3 +1,5 @@
+/*Author: Chris Kourounis */
+
 import java.util.Scanner;
 
 public class Converter {
